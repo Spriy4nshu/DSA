@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Spriy4nshu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Spriy4nshu/DSA/tree/master/0075-sort-colors) |
 # Two Pointers
 |  |
@@ -14,3 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Spriy4nshu/DSA/tree/master/0075-sort-colors) |
+# Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Spriy4nshu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
