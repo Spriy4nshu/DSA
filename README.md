@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Spriy4nshu/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Spriy4nshu/DSA/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spriy4nshu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/Spriy4nshu/DSA/tree/master/0322-coin-change) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Spriy4nshu/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 # Two Pointers
 |  |
@@ -41,7 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Spriy4nshu/DSA/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/Spriy4nshu/DSA/tree/master/0322-coin-change) |
 # Hash Table
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Spriy4nshu/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Spriy4nshu/DSA/tree/master/0322-coin-change) |
