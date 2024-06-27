@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Spriy4nshu/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Spriy4nshu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Spriy4nshu/DSA/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Spriy4nshu/DSA/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spriy4nshu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 # Two Pointers
 |  |
@@ -32,3 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Spriy4nshu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Spriy4nshu/DSA/tree/master/0118-pascals-triangle) |
