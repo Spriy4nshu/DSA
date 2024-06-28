@@ -34,24 +34,49 @@
 //     }
 // };
 
+// // boolean based recursion
+// class Solution {
+// public:
+//     TreeNode* prev; // nullptr
+//     bool isValidBST(TreeNode* root) { 
+        
+//         return inOrder(root);
+//     }
+//     bool inOrder(TreeNode* root) {
+//         if(root == nullptr) return true;
+        
+//         bool left = inOrder(root->left); // inorder traversal
+//         if(prev != nullptr && prev->val >= root->val) {
+//             // prev will always be smaller than current (root)
+//             return false; 
+//         }
+//         prev = root;
+        
+//         bool right = inOrder(root->right);
+//         return (left && right);
+//     }
+// };
+
+// range based validation
 class Solution {
 public:
     TreeNode* prev; // nullptr
+    bool flag;
     bool isValidBST(TreeNode* root) { 
-        
-        return inOrder(root);
+        this->flag = true;
+        inOrder(root, LLONG_MIN, LLONG_MAX);
+        return flag;
     }
-    bool inOrder(TreeNode* root) {
-        if(root == nullptr) return true;
-        
-        bool left = inOrder(root->left); // inorder traversal
-        if(prev != nullptr && prev->val >= root->val) {
-            // prev will always be smaller than current (root)
-            return false; 
+    void inOrder(TreeNode* root, long long left, long long right) {
+        //base
+        if(root == nullptr) return;
+        if(root->val <= left || root->val >= right){
+            flag = false;
+            return;
         }
-        prev = root;
+        //logic
+        inOrder(root->left, left, root->val);  
         
-        bool right = inOrder(root->right);
-        return (left && right);
+        inOrder(root->right, root->val, right);   
     }
 };
