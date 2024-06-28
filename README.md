@@ -55,10 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Spriy4nshu/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Spriy4nshu/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 # Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Spriy4nshu/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Spriy4nshu/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -67,3 +69,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Spriy4nshu/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Spriy4nshu/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
