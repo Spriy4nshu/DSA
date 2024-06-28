@@ -9,27 +9,49 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// class Solution {
+// public:
+//     bool flag;
+//     TreeNode* prev; // nullptr
+//     bool isValidBST(TreeNode* root) { 
+//         flag = true;
+//         helper(root);
+//         return flag;
+//     }
+//     void helper(TreeNode* root) {
+//         if(root == nullptr) return;
+//         if(flag) {
+//             helper(root->left); // inorder traversal
+//             if(prev != nullptr && prev->val >= root->val) {
+//                 // prev will always be smaller than current (root)
+//                 flag = false; 
+//             }
+//             prev = root;
+//         } 
+//         if(flag){
+//             helper(root->right);
+//         }
+//     }
+// };
+
 class Solution {
 public:
-    bool flag;
     TreeNode* prev; // nullptr
     bool isValidBST(TreeNode* root) { 
-        flag = true;
-        helper(root);
-        return flag;
+        
+        return inOrder(root);
     }
-    void helper(TreeNode* root) {
-        if(root == nullptr) return;
-        if(flag) {
-            helper(root->left); // inorder traversal
-            if(prev != nullptr && prev->val >= root->val) {
-                // prev will always be smaller than current (root)
-                flag = false; 
-            }
-            prev = root;
-        } 
-        if(flag){
-            helper(root->right);
+    bool inOrder(TreeNode* root) {
+        if(root == nullptr) return true;
+        
+        bool left = inOrder(root->left); // inorder traversal
+        if(prev != nullptr && prev->val >= root->val) {
+            // prev will always be smaller than current (root)
+            return false; 
         }
+        prev = root;
+        
+        bool right = inOrder(root->right);
+        return (left && right);
     }
 };
