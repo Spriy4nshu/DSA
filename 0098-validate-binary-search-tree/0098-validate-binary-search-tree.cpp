@@ -20,7 +20,6 @@ public:
     }
     void helper(TreeNode* root) {
         if(root == nullptr) return;
-        cout << root->val << endl;
         if(flag) {
             helper(root->left); // inorder traversal
             if(prev != nullptr && prev->val >= root->val) {
