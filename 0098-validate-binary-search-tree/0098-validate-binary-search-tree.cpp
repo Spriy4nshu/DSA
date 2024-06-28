@@ -75,8 +75,9 @@ public:
             return;
         }
         //logic
-        inOrder(root->left, left, root->val);  
-        
-        inOrder(root->right, root->val, right);   
+        if(flag)
+            inOrder(root->left, left, root->val);  
+        if(flag)
+            inOrder(root->right, root->val, right);   
     }
 };
