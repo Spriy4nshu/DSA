@@ -55,11 +55,13 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Spriy4nshu/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Spriy4nshu/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Spriy4nshu/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 # Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Spriy4nshu/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Spriy4nshu/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Spriy4nshu/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 # Binary Search Tree
 |  |
@@ -69,4 +71,9 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Spriy4nshu/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Spriy4nshu/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Spriy4nshu/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+# Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Spriy4nshu/DSA/tree/master/0113-path-sum-ii) |
