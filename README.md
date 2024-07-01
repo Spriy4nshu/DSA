@@ -109,8 +109,13 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Spriy4nshu/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Spriy4nshu/DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Spriy4nshu/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Spriy4nshu/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
