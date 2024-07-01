@@ -22,7 +22,6 @@ public:
             fast = fast->next;
         }
         curr->next = prev;
-        prev = curr;
-        return prev;
+        return curr;
     }
 };
