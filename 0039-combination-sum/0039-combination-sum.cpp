@@ -8,7 +8,7 @@ public:
     }
     
 private:
-    void helper(vector<int>& candidates, int idx, int target, vector<int> path, vector<vector<int>>& result) {
+    void helper(vector<int>& candidates, int idx, int target, vector<int>& path, vector<vector<int>>& result) {
         // base cases
         if (idx == candidates.size() || target < 0) return;
         if (target == 0) {
@@ -23,5 +23,6 @@ private:
         // choose current number
         path.push_back(candidates[idx]);
         helper(candidates, idx, target - candidates[idx], path, result);
+        path.pop_back();
     }
 };
