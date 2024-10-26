@@ -8,21 +8,19 @@ public:
     }
     
 private:
-    void helper(vector<int>& candidates, int idx, int target, vector<int>& path, vector<vector<int>>& result) {
+    void helper(vector<int>& candidates, int pivot, int target, vector<int>& path, vector<vector<int>>& result) {
         // base cases
-        if (idx == candidates.size() || target < 0) return;
+        if (pivot == candidates.size() || target < 0) return;
         if (target == 0) {
             result.push_back(path);
             return;
         }
         
         // logic
-        // not choose current number
-        helper(candidates, idx + 1, target, path, result);
-        
-        // choose current number
-        path.push_back(candidates[idx]);
-        helper(candidates, idx, target - candidates[idx], path, result);
-        path.pop_back();
+        for(int i = pivot; i < candidates.size(); i++){
+            path.push_back(candidates[i]);
+            helper(candidates, i, target - candidates[i], path, result);
+            path.pop_back();
+        }
     }
 };
