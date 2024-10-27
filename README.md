@@ -85,6 +85,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 | [0039-combination-sum](https://github.com/Spriy4nshu/DSA/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Spriy4nshu/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Spriy4nshu/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0792-binary-search](https://github.com/Spriy4nshu/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +127,8 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Spriy4nshu/DSA/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Spriy4nshu/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
