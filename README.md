@@ -141,4 +141,16 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Spriy4nshu/DSA/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Spriy4nshu/DSA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Spriy4nshu/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Spriy4nshu/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
