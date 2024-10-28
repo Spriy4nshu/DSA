@@ -115,6 +115,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Spriy4nshu/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Spriy4nshu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Spriy4nshu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Spriy4nshu/DSA/tree/master/0206-reverse-linked-list) |
