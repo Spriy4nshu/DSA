@@ -87,6 +87,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Spriy4nshu/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0198-house-robber](https://github.com/Spriy4nshu/DSA/tree/master/0198-house-robber) |
 | [0792-binary-search](https://github.com/Spriy4nshu/DSA/tree/master/0792-binary-search) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Spriy4nshu/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,4 +156,12 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Spriy4nshu/DSA/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Spriy4nshu/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Spriy4nshu/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
