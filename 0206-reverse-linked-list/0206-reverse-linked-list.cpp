@@ -8,25 +8,27 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-public:
-    ListNode* reverseList(ListNode* head) {
-        if(head == nullptr || head->next == nullptr) return head;
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-        ListNode* fast = head->next;
-        while(fast != nullptr){
-            curr->next = prev;
-            prev = curr;
-            curr = fast;
-            fast = fast->next;
-        }
-        curr->next = prev;
-        return curr;
-    }
-};
 
-// recursive
+// Slow-Fast Pointer
+// class Solution {
+// public:
+//     ListNode* reverseList(ListNode* head) {
+//         if(head == nullptr || head->next == nullptr) return head;
+//         ListNode* prev = nullptr;
+//         ListNode* curr = head;
+//         ListNode* fast = head->next;
+//         while(fast != nullptr){
+//             curr->next = prev;
+//             prev = curr;
+//             curr = fast;
+//             fast = fast->next;
+//         }
+//         curr->next = prev;
+//         return curr;
+//     }
+// };
+
+// Recursive
 // class Solution {
 // public:
 //     ListNode* reverseList(ListNode* head) {
@@ -37,3 +39,27 @@ public:
 //         return result;
 //     }
 // };
+
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        if(head == nullptr || head->next == nullptr) return head;
+        ListNode *result = reverseList(head->next);
+        head->next->next = head;
+        head->next = nullptr;
+        return result;
+
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        ListNode* next = head->next;
+
+        while(curr->next != nullptr){
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+            next = next->next;
+        }
+
+        return curr;
+    }
+};
