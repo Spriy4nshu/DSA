@@ -60,6 +60,8 @@ public:
             next = next->next;
         }
 
+        curr->next = prev;
+
         return curr;
     }
 };
