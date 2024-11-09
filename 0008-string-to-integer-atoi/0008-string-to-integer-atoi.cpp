@@ -37,7 +37,7 @@ public:
                         return INT_MAX;
                     }
                 } else {
-                    if (num > INT_MAX/10 || (num == INT_MAX/10 && (s[i]-'0' >= -(INT_MIN%10)))) {
+                    if (num > -(INT_MIN/10) || (num == -(INT_MIN/10) && (s[i]-'0' >= -(INT_MIN%10)))) {
                         return INT_MIN;
                     }
                 }
