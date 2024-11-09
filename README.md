@@ -132,6 +132,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Spriy4nshu/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Spriy4nshu/DSA/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +172,12 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Spriy4nshu/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+## String
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
