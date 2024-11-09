@@ -175,6 +175,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Spriy4nshu/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
