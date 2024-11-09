@@ -92,6 +92,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Spriy4nshu/DSA/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Spriy4nshu/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Spriy4nshu/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Spriy4nshu/DSA/tree/master/0141-linked-list-cycle) |
@@ -153,6 +154,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Spriy4nshu/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Spriy4nshu/DSA/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
@@ -176,6 +178,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Spriy4nshu/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Spriy4nshu/DSA/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
