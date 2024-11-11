@@ -84,6 +84,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 | ------- |
 | [0039-combination-sum](https://github.com/Spriy4nshu/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Spriy4nshu/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Spriy4nshu/DSA/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Spriy4nshu/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Spriy4nshu/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0198-house-robber](https://github.com/Spriy4nshu/DSA/tree/master/0198-house-robber) |
@@ -160,6 +161,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 | ------- |
 | [0012-integer-to-roman](https://github.com/Spriy4nshu/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Spriy4nshu/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Spriy4nshu/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Spriy4nshu/DSA/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Spriy4nshu/DSA/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
@@ -175,6 +177,7 @@ Collection of solved LeetCode questions! - Created using [LeetHub](https://githu
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Spriy4nshu/DSA/tree/master/0048-rotate-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Spriy4nshu/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
