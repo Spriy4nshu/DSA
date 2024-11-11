@@ -7,14 +7,17 @@ public:
         int a1 = nums[0];
         int a2 = max(a1, nums[1]);
         for(int i = 2; i < nums.size(); i++){
-            if(nums[i] + a1 > a2){
-                int temp = a1;
-                a1 = a2;
-                a2 = nums[i] + temp;
-            }
-            else{
-                a1 = a2;
-            }
+            int temp = a1;
+            a1 = a2;
+            a2 = max(nums[i] + temp, a2);
+            // if(nums[i] + a1 > a2){
+            //     int temp = a1;
+            //     a1 = a2;
+            //     a2 = nums[i] + temp;
+            // }
+            // else{
+            //     a1 = a2;
+            // }
         }
         return max(a1, a2);
     }
